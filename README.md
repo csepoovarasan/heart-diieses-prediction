@@ -6,7 +6,7 @@ An interactive Power BI business intelligence solution designed to analyze clini
 
 ## 📸 Dashboard Preview
 
-![Heart Disease Dashboard Screenshot](images/dashboard_screenshot.png)  
+
 *Figure 1: Main interface of the medical analysis dashboard.*  
 *(Note: To display your dashboard image, save a snippet inside an `images` folder in this repository and update the path above).*
 
